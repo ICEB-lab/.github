@@ -1,3 +1,3 @@
-# Prime vs composite perceptual grouping manuscript
+# Welcome to the ICEB lab GitHub!
 
-Details on data processing, statistical analysis and figures of the manuscript under peer review: "Exploring categorisation of prime and composite quantities in honeybees using perceptual grouping"
+Here, we can share our code with other members of the lab! Please ask Leslie if you need any help setting things up :)
